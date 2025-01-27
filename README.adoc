@@ -1,4 +1,4 @@
-= CalConnect Standard: (TITLE)
+= CalConnect Standard: iCalendar vPatch
 
 This work item belongs to CalConnect (TCs).
 
@@ -6,17 +6,16 @@ image:https://github.com/CalConnect/cc-icalendar-patch/workflows/generate/badge.
 
 This document is available in its rendered forms here:
 
-* https://calconnect.github.io/cc-icalendar-patch/[CalConnect: Calendaring and scheduling -- Vocabulary (HTML)]
+* https://calconnect.github.io/cc-icalendar-patch/[CalConnect: Calendaring and scheduling -- iCalendar vPatch (HTML)]
 
 == General
 
-This document specifies the (TITLE).
+This document specifies iCalendar vPatch.
 
 The document is published as the following:
 
-* CalConnect CC (DOCNUMBER)
-* ISO (DOCNUMBER)
-* IETF draft-cc-icalendar-patch
+* CalConnect CC 51012
+* IETF draft-daboo-icalendar-patch
 
 
 == Fetching the document
@@ -64,15 +63,15 @@ open _site/index.html
 ----
 
 
-// == IETF: Checking against idnits
+== IETF: Checking against idnits
 
-// https://tools.ietf.org/tools/idnits/[idnits] is the RFC checking tool prior to
-// submissions.
+https://tools.ietf.org/tools/idnits/[idnits] is the RFC checking tool prior to
+submissions.
 
-// [source,sh]
-// ----
-// idnits draft-calconnect-vobject-vformat.nits
-// ----
+[source,sh]
+----
+idnits {document}.nits
+----
 
 
 == License

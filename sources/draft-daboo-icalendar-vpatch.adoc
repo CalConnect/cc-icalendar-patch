@@ -1,0 +1,82 @@
+= The iCalendar VPATCH Component
+:doctype: internet-draft
+:name: draft-daboo-icalendar-vpatch-00
+:abbrev: daboo-icalendar-vpatch
+:status: standard
+:ipr: trust200902
+:consensus: true
+:area: Internet
+:intended-series: full-standard
+:workgroup: Calendaring Extensions
+:revdate: 2016-10-28
+:updates: IETF RFC 5545;IETF RFC 6321
+:fullname: Cyrus Daboo
+:lastname: Daboo
+:forename_initials: C.
+:organization: Apple Inc.
+:email: cyrus@daboo.name
+:uri: https://www.apple.com
+:street: 1 Infinite Loop
+:city: Cupertino
+:code: 95014
+:region: CA
+:country: USA
+:fullname_2: Kenneth Murchison
+:lastname_2: Murchison
+:forename_initials_2: K.
+:organization_2: Carnegie Mellon University
+:email_2: murch@andrew.cmu.edu
+:uri_2: https://www.cmu.edu
+:street_2: 5000 Forbes Avenue
+:city_2: Pittsburgh
+:code_2: 15213
+:region_2: PA
+:country_2: USA
+:mn-document-class: ietf
+:mn-output-extensions: rfc,xml,txt,html
+:local-cache-only:
+:data-uri-image:
+
+include::sections-ietf/00-abstract.adoc[]
+
+include::sections/01-intro.adoc[]
+
+include::sections-ietf/02-conventions.adoc[]
+
+include::sections/03-overview.adoc[]
+
+include::sections/04-patch.adoc[]
+
+include::sections/05-icalendar-path.adoc[]
+
+include::sections/06-add-update-comp.adoc[]
+
+include::sections/07-add-update-prop.adoc[]
+
+include::sections/08-delete.adoc[]
+
+include::sections/09-add-update-propp.adoc[]
+
+include::sections/10-icalendar-ext.adoc[]
+
+include::sections/11-additional.adoc[]
+
+include::sections/12-itip.adoc[]
+
+include::sections/13-caldav.adoc[]
+
+include::sections/14-security.adoc[]
+
+include::sections/15-privacy.adoc[]
+
+include::sections/16-iana.adoc[]
+
+include::sections/97-examples.adoc[]
+
+include::sections-ietf/98-references.adoc[]
+
+include::sections/99-acknowledgements.adoc[]
+
+include::sections/aa-change-history.adoc[]
+
+include::sections/00-open-issues.adoc[]
