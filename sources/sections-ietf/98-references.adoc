@@ -1,0 +1,35 @@
+[bibliography]
+== Normative References
+
+* [[[RFC4791,IETF RFC 4791]]]
+
+* [[[RFC5234,IETF RFC 5234]]]
+
+* [[[RFC5545,IETF RFC 5545]]]
+
+* [[[RFC5546,IETF RFC 5546]]]
+
+* [[[RFC7953,IETF RFC 7953]]]
+
+[bibliography]
+== Informative References
+
+* [[[RFC2119,IETF RFC 2119]]]
+
+* [[[RFC5789,IETF RFC 5789]]]
+
+* [[[CALCONNECT,nofetch(CalConnect)]]] _The Calendaring and Scheduling Consortium_
+
+// <reference anchor='VPATH'>
+//   <front>
+//     <title>vPath (draft)</title>
+//     <author initials="C." surname="Daboo" fullname="Cyrus Daboo">
+//       <organization>Apple Inc.</organization>
+//     </author>
+//     <author initials="K." surname="Murchison" fullname="Ken Murchison">
+//       <organization>Carnegie Mellon University</organization>
+//     </author>
+//     <date day='28' month='October' year='2016'/>
+//   </front>
+// </reference>
+
