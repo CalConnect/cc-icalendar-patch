@@ -1,3 +1,5 @@
+# metanorma.release.yml — cc-icalendar-patch
+
 documents:
-  - source: sources/cc-51012.adoc
-  - source: sources/draft-daboo-icalendar-vpatch.adoc
+  - pattern: "cc-*"
+    channels: [public/standards]
