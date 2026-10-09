@@ -39,6 +39,11 @@
 :data-uri-image:
 
 include::sections/01-intro.adoc[]
+[abstract]
+== Abstract
+
+This document defines a new iCalendar (RFC 5545) component that allows small patches to be applied to large iCalendar data objects, allowing efficient data updates. It also describes how the new component can be used with the CalDAV calendar data access protocol (RFC 4791).
+
 
 include::sections/01-scope.adoc[]
 
